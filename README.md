@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Votre Nom]
+# 👋 Bonjour, je suis [Julien]
 
 ## 🎓 À propos de moi
 - 📚 Étudiant à EPITECH
